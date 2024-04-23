@@ -31,6 +31,7 @@ Using PhotoGallery is simple:
 
 ## Demo
 
-<img src="https://github.com/N0ksa/PhotoGallery/assets/118447696/67661305-aad7-48b6-a065-5a2f1613971a" width="400">
+![1-ezgif com-optimize (1)](https://github.com/N0ksa/PhotoGallery/assets/118447696/5afa0441-355b-4423-809c-0caee4dcdb87)
+
 
 
